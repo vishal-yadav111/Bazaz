@@ -1,0 +1,138 @@
+
+
+
+
+.sortingcard{
+  background-color: white;
+ 
+  
+}
+
+
+
+
+
+
+/* Card Container */
+.doctor-card {
+   display: flex;
+  justify-content: space-between;
+  
+  align-items: flex-start;
+  width: 100%;
+  padding: 16px;
+  margin: 10px auto;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  flex-wrap: nowrap;      
+  overflow: hidden;       
+}
+
+/* Left Side (Doctor Image) */
+.doctor-left {
+  flex: 0 0 70px;
+  display: flex;
+ justify-content: flex-start;  /* push image to the left */
+  align-items: flex-start;   
+}
+
+.doctor-image {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Middle Section (Doctor Info) */
+.doctor-middle {
+  display: flex;
+flex-direction: column;
+  flex: 1;
+  padding: 0 12px;
+  min-width: 0;              /* ✅ allow text to shrink */
+  word-wrap: break-word;     /* ✅ break long words */
+  overflow-wrap: break-word; /* ✅ wrap text properly */
+}
+
+.doctor-name {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.doctor-specialist,
+.doctor-cource,
+.doctor-exp,
+.doctor-clinic-info,
+.doctor-address-info {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 2px 0;
+  line-height: 1.3;
+  word-break: break-word;    /* ✅ wrap long clinic names/addresses */
+}
+
+/* Right Section (Fee + Button) */
+.doctor-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  min-width: 90px;
+  margin-top: auto;
+  text-align: right;
+}
+
+.doctor-fee {
+  color: #1b7bdb;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.book-btn {
+  padding: 4px 10px;
+  font-size: 0.85rem;
+}
+
+/* ✅ Responsive Fix */
+@media (max-width: 768px) {
+  .doctor-card {
+    flex-direction: column;    /* stack image + info + button */
+    align-items: flex-start;
+  }
+
+  .doctor-right {
+    width: 100%;
+    align-items: flex-start;   /* fee + button left aligned */
+    margin-top: 10px;
+    text-align: left;
+  }
+}
+
+
+
+.scrollable-list::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollable-list::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 10px;
+}
+
+.scrollable-list::-webkit-scrollbar-thumb:hover {
+  background-color: #aaa;
+}
+
+.unstyled-acc .accordion-item,
+.unstyled-acc .accordion-body,
+.unstyled-acc .accordion-button {
+  background-color: transparent !important;
+  border: 0 !important;
+  box-shadow:  none !important;
+  border-color: rgb(227, 223, 232);
+  padding: auto;
+  padding: 10px;
+}

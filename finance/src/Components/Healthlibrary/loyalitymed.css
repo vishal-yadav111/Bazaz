@@ -1,0 +1,55 @@
+/* Grid for cards */
+.hospitals-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+/* Card as clickable link */
+.card1 {
+  display: block;
+  text-decoration: none;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 14px 18px;
+  transition: all 0.2s ease;
+  color: inherit;
+}
+
+/* Inside card layout */
+.card-body1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Left logo */
+.card-body1 img {
+  height: 45px;
+  width: 80px;
+  object-fit: contain;
+  margin-right: 12px;
+}
+
+/* Middle text */
+.card-body1 h4 {
+  flex: 1;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #222;
+  margin: 0;
+}
+
+/* Right arrow */
+.arrow-icon {
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Hover effect */
+.card1:hover {
+  border-color: #007bff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}

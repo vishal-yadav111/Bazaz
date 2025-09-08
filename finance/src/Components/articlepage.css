@@ -1,0 +1,14 @@
+.article{
+    padding: 20px;
+    display: flex;
+}
+.doctorcardcontainer{
+    scrollbar-width: none;
+    overflow: auto;
+    display: flex;
+    white-space: nowrap;
+    -ms-overflow-style: none;
+    padding: 20px 0px;
+    gap: 15px;
+
+}

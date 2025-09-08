@@ -1,0 +1,15 @@
+[
+  { "name": "Jan", "opd": 0, "ipd": 2400, "emergency": 2500 },
+  { "name": "Feb", "opd": 3000, "ipd": 1398, "emergency": 3000 },
+  { "name": "Mar", "opd": 2000, "ipd": 9800, "emergency": 2000 },
+  { "name": "Apr", "opd": 2780, "ipd": 3908, "emergency": 5000 },
+  { "name": "May", "opd": 1890, "ipd": 4800, "emergency": 2000 },
+  { "name": "Jun", "opd": 2390, "ipd": 3800, "emergency": 2900 },
+  { "name": "Jul", "opd": 3490, "ipd": 4300, "emergency": 2100 },
+   { "name": "aug", "opd": 4000, "ipd": 2400, "emergency": 2500 },
+  { "name": "sept", "opd": 3000, "ipd": 1398, "emergency": 3000 },
+  { "name": "oct", "opd": 2000, "ipd": 6800, "emergency": 2000 },
+  { "name": "nov", "opd": 2780, "ipd": 3908, "emergency": 5000 },
+  { "name": "dec", "opd": 1890, "ipd": 4800, "emergency": 2000 }
+ 
+]

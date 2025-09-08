@@ -1,0 +1,90 @@
+.custom-navbar{
+    background-color: rgb(0,93,172);
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.footer-heading{
+    color: rgb(255, 191, 94);
+}
+.Nav2{
+    background-color: rgb(45, 56, 146);
+    text-align: center;
+    color: white;
+}
+
+.button{
+    background-color: rgb(36, 36, 128);
+    color: white;
+    border-radius: 10px;
+     padding: 6px 16px;
+  border: none;
+  cursor: pointer;
+
+    
+    
+}
+.home{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+}
+
+.screen{
+    padding-Left:0px;
+    padding-right:0px ;
+
+}
+.cardc{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+    
+    
+}
+.card {
+    width: 20rem;
+    background-color: rgb(230, 230, 230);
+   
+    align-items: center;
+}
+.hw{
+    height: 266px;
+    width: 450px;
+    padding: px;
+    
+}
+
+
+.no-padding-toggle {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+
+
+/* Only ABHA + PARTNER icons & text white */
+.abha-partner {
+  color: white ;
+}
+
+.abha-partner svg {
+  color: white ; 
+}
+
+.abha-partner .dropdown-toggle {
+  color: white ; 
+  background: transparent !important;
+  border: none !important;
+}
+.medicard{
+  background: transparent !important;
+  border: none !important;
+}

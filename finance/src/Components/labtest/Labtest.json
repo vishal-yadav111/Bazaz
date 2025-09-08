@@ -1,0 +1,113 @@
+[
+    {
+        "drname": "Diagnopein",
+        "specialist": "Body Organs, Lifestyle Habits, ",
+        "cource": "",
+        "experience": "Sadashiv Peth~0.7 Kms",
+        "Hospitalname": "Mon - Sat 8:00 AM - 6:00 PM",
+        "adress": "Manjri Bk, Pune- 16 km",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/bc94a663-677c-452b-8d07-5a0151da89b3/ProviderLogo_Diagnopein_logo.png",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "Pathkind Diagnostics Private Lim",
+        "specialist": "Body Organs, Top Health Concerns, Health T",
+        "cource": "B.Sc. - Home Science (Food and Nutrition)",
+        "experience":"Shivajinagar~6.1 Kms",
+        "Hospitalname": "Mon - Sat 8:00 AM - 6:00 PM",
+        "adress": "Manjri Bk, Pune- 16 km",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/1703064942977_001OA000000Os7KYASProviderLogo_LOGO%20(8).jpg",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "NM Diagnostics Pvt Ltd",
+        "specialist": "Body Organs, Top Health Concerns, Fami",
+        "cource": "MBBS",
+        "experience": "Shivajinagar~3.14 Kms",
+        "Hospitalname": "Mon - Sat 8:00 AM - 6:00 PM",
+        "adress": "Nigdi",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/1717759735041_0018p000009PXb3AAGProviderLogo_NM%20Logo%20(1).png",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "Deccan Multispeciality Hardikar",
+        "specialist": "Health Tests, Lifestyle Habits, Family Well",
+        "cource": "MBBS, MD-General Medicine",
+        "experience": "Shivajinagar~3.14 Kms",
+        "Hospitalname": "Mon - Sat 8:00 AM - 6:00 PM",
+        "adress": "Charholi Budruk",
+        "docimg": "https://bajajfinservhealth.azureedge.net/png/test/04e865fa-7e65-4d09-a823-95875916e01d.png",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "Phadnis Clinics Private Limited",
+        "specialist": " .",
+        "cource": "MBBS, Diploma in Child Health",
+        "experience": "1Shivajinagar~1.14 Kms",
+        "Hospitalname": "Mon - Sat 8:00 AM - 6:00 PM",
+        "adress": "Thergaon",
+        "doctorfees": "₹ 600",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/0fcb3d7d-6dc1-43f0-ba5a-3a0dc64056d6/ProviderLogo_Logo_Deccan.jpg",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": " Metropolis Healthcare Ltd",
+        "specialist": "USG, Radiology, Conditional Scans, Body Par",
+        "cource": "MBBS",
+        "experience": "Shivajinagar~13.14 Kms",
+        "Hospitalname": "Mon - Sat 8:00 AM - 6:00 PM",
+        "adress": "Mohammed Wad",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/8fbb5a10-d6e0-4209-98e7-7dbbb983d3ad/ProviderLogo_Logo_ONP.png",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "Apollo Health and Lifestyle Limit",
+        "specialist": "General Physician",
+        "cource": "MBBS, DNB - General Medicine",
+        "experience": "1Shivajinagar~5.12 Kms",
+        "Hospitalname": "Mon - Sat 8:00 AM - 6:00 PM",
+        "adress": "Akurdi",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/1721457154042_0018p000009PXwdAAGProviderLogo_Screenshot%202024-07-20%20120003.png",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "Aarthi Scans & Labs",
+        "specialist": "Body Organs, Top Health Concerns, Hea",
+        "cource": "MBBS, MD - Psychiatry",
+        "experience": "Shivajinagar~5.14 Kms",
+        "Hospitalname": "Chetas Clinic",
+        "adress": "Hadapsar",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/1720444805017_001OA00000B0MGrYANProviderLogo_ProviderLogo_MicrosoftTeams-image%20(7)%20(1).png",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "Neuberg Diagnostics",
+        "specialist": "General Physician",
+        "cource": "Practitioner of Rational System ...",
+        "experience": "Shivajinagar~5.14 Kms",
+        "Hospitalname": "Lonkar Clinic",
+        "adress": "Ghule Vasti",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/1697780679532_0018p000009PVyjAAGProviderLogo_Frame%2019770%20(1).png",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "Sage Path Labs Private Limited",
+        "specialist": "Paediatrician",
+        "cource": "MBBS",
+        "experience": "16 yrs exp.",
+        "Hospitalname": "Vatsalya Child Care Clinic",
+        "adress": "Manjri Bk, Pune- 16 km",
+        "docimg": "https://doctorlistingingestionpr.blob.core.windows.net/provider/1704795071517_0018p000009PZ1xAAGProviderLogo_LOGO1%20(3).png",
+        "doctorfees": "₹ 600"
+    },
+    {
+        "drname": "Dr. Yogesh Satav",
+        "specialist": "Paediatrician",
+        "cource": "MBBS",
+        "experience": "16 yrs exp.",
+        "Hospitalname": "Vatsalya Child Care Clinic",
+        "adress": "Manjri Bk, Pune- 16 km",
+        "docimg": "https://bajajfinservhealth.azureedge.net/png/test/ad5ce759-2ee5-4693-9da1-7beeb8021ed9.png",
+        "doctorfees": "₹ 600"
+    }
+]
