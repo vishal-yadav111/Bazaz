@@ -37,6 +37,15 @@ export const options = {
     title: {
       display: true,
       text: 'Monthly Data Chart',
+     
+    },
+  },
+   scales: {
+    x: {
+      stacked: true,
+    },
+    y: {
+      stacked: true,
     },
   },
 };
@@ -135,6 +144,29 @@ y:item.emergency
  }
 ]
 };
+export const data3 = {
+  labels,
+  datasets: [
+    {
+      label: 'Dataset 1',
+      data: Chartdata.map((item) => item.opd),
+      backgroundColor: 'rgb(255, 99, 132)',
+      stack: 'Stack 0',
+    },
+    {
+      label: 'Dataset 2',
+      data: Chartdata.map((item) => item.ipd),
+      backgroundColor: 'rgb(75, 192, 192)',
+      stack: 'Stack 0',
+    },
+    {
+      label: 'Dataset 3',
+      data: Chartdata.map((item) => item.emergency),
+      backgroundColor: 'rgb(53, 162, 235)',
+      stack: 'Stack 1',
+    },
+  ],
+};
  
 
   
@@ -167,9 +199,10 @@ export const Chart3 = () => {
  
   </Col>
   <Col>
-   <Bubble options={options} data={Scatterdata} />
+   <Bar options={options} data={data2} />
   </Col>
 </Row>
+
 </>
    
   )
